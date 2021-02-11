@@ -2,7 +2,7 @@ pandas
 numpy
 sqlalchemy
 psycopg2
-wheels
+wheel
 matplotlib
 sklearn
 nose
